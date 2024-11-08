@@ -1,6 +1,6 @@
-# Computational Linguistics Teaching Assistant 🎓
+ # Computational Linguistics Teaching Assistant 🎓
 
-A chatbot that serves as a teaching assistant for Computational Linguistics, leveraging content from Stanford's CS224N course. The bot uses advanced NLP techniques to provide accurate, source-backed answers about word vectors, neural networks, and NLP concepts.
+A chatbot that serves as a teaching assistant for Computational Linguistics, leveraging content from a real CL course. The bot uses advanced NLP techniques to provide accurate, source-backed answers about word vectors, neural networks, and NLP concepts.
 
 ## Features ✨
 
